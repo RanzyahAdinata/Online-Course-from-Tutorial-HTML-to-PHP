@@ -1,1 +1,1 @@
-50% Progress belum sempat nyelesikan tutorial sampai ke convert file html ke php
+50% Progress belum sempat menyelesaikan tutorial sampai ke convert file html ke php
